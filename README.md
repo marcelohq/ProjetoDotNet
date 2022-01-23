@@ -9,8 +9,8 @@ O projeto foi criado com auxilio do instrutor Eliézer Zarpelão
 
 Marcelo dos Santos
 
-Linkedin:  [br.linkedin.com/in/eliezerzarpelao](https://www.linkedin.com/in/marcelo-henrique-silva-dos-santos-952356223/)
+Linkedin:  [br.linkedin.com/in/marcelo-henrique-silva-dos-santos-952356223](https://www.linkedin.com/in/marcelo-henrique-silva-dos-santos-952356223/)
 
-Twitter:  [@eliezerzarpelao](https://twitter.com/hpmarcello)
+Twitter:  [@hpmarcello](https://twitter.com/hpmarcello)
 
-Github:  [github.com/elizarp](https://github.com/marcelohq)
+Github:  [github.com/marcelohq](https://github.com/marcelohq)
