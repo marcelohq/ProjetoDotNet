@@ -1,0 +1,15 @@
+C:\Users\hq_ma\source\repos\marcelohq\ProjetoDotNet\bin\Debug\net6.0\ProjetoDotNet.exe
+C:\Users\hq_ma\source\repos\marcelohq\ProjetoDotNet\bin\Debug\net6.0\ProjetoDotNet.deps.json
+C:\Users\hq_ma\source\repos\marcelohq\ProjetoDotNet\bin\Debug\net6.0\ProjetoDotNet.runtimeconfig.json
+C:\Users\hq_ma\source\repos\marcelohq\ProjetoDotNet\bin\Debug\net6.0\ProjetoDotNet.dll
+C:\Users\hq_ma\source\repos\marcelohq\ProjetoDotNet\bin\Debug\net6.0\ref\ProjetoDotNet.dll
+C:\Users\hq_ma\source\repos\marcelohq\ProjetoDotNet\bin\Debug\net6.0\ProjetoDotNet.pdb
+C:\Users\hq_ma\source\repos\marcelohq\ProjetoDotNet\obj\Debug\net6.0\ProjetoDotNet.csproj.AssemblyReference.cache
+C:\Users\hq_ma\source\repos\marcelohq\ProjetoDotNet\obj\Debug\net6.0\ProjetoDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hq_ma\source\repos\marcelohq\ProjetoDotNet\obj\Debug\net6.0\ProjetoDotNet.AssemblyInfoInputs.cache
+C:\Users\hq_ma\source\repos\marcelohq\ProjetoDotNet\obj\Debug\net6.0\ProjetoDotNet.AssemblyInfo.cs
+C:\Users\hq_ma\source\repos\marcelohq\ProjetoDotNet\obj\Debug\net6.0\ProjetoDotNet.csproj.CoreCompileInputs.cache
+C:\Users\hq_ma\source\repos\marcelohq\ProjetoDotNet\obj\Debug\net6.0\ProjetoDotNet.dll
+C:\Users\hq_ma\source\repos\marcelohq\ProjetoDotNet\obj\Debug\net6.0\ref\ProjetoDotNet.dll
+C:\Users\hq_ma\source\repos\marcelohq\ProjetoDotNet\obj\Debug\net6.0\ProjetoDotNet.pdb
+C:\Users\hq_ma\source\repos\marcelohq\ProjetoDotNet\obj\Debug\net6.0\ProjetoDotNet.genruntimeconfig.cache
